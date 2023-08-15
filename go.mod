@@ -1,3 +1,3 @@
-module github.com/govcode/gosummer
+module github.com/govcode/summer
 
 go 1.20
